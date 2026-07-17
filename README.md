@@ -47,6 +47,7 @@ Resonance is organized around a layered model:
 - `server/` will eventually host optional service-side components.
 - `sdk/` contains integrations for specific runtimes and engines.
 - `architecture/` and `foundation/` define the design intent and scope.
+- `specifications/` defines the formal contract for future implementation.
 
 The core principle is strict separation of concerns. Engine-specific behavior belongs only in SDK layers.
 
@@ -54,6 +55,7 @@ The core principle is strict separation of concerns. Engine-specific behavior be
 
 - `.github/` GitHub workflows, templates, and repository automation.
 - `docs/` supporting documentation hub.
+- `specifications/` technical specification and contract layer.
 - `foundation/` vision, mission, principles, scope, and use-case statements.
 - `architecture/` architectural overviews and dependency documentation.
 - `decisions/` architecture decision records.
