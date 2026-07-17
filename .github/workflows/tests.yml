@@ -1,0 +1,12 @@
+name: Tests
+
+on:
+  workflow_dispatch:
+
+jobs:
+  placeholder:
+    name: Tests Placeholder
+    runs-on: ubuntu-latest
+    steps:
+      - name: Foundation notice
+        run: echo "Tests workflow placeholder for Resonance foundation."

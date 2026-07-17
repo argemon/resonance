@@ -1,0 +1,12 @@
+name: Lint
+
+on:
+  workflow_dispatch:
+
+jobs:
+  placeholder:
+    name: Lint Placeholder
+    runs-on: ubuntu-latest
+    steps:
+      - name: Foundation notice
+        run: echo "Lint workflow placeholder for Resonance foundation."

@@ -1,0 +1,42 @@
+# Build artifacts
+build/
+out/
+cmake-build-*/
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+compile_commands.json
+CTestTestfile.cmake
+cmake_install.cmake
+
+# IDEs and editors
+.idea/
+.vscode/
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Node and web tooling
+node_modules/
+dist/
+coverage/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
