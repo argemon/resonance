@@ -24,3 +24,14 @@ Examples:
 
 - `0001-example-decision.md`
 - `0002-another-decision.md`
+
+## Current ADRs
+
+- [0001: Core Must Remain Engine-Agnostic](0001-core-is-engine-agnostic.md)
+- [0002: Engine Integration Belongs in SDKs](0002-sdks-own-engine-integration.md)
+- [0003: Protocol Is a Separate Contract Layer](0003-protocol-is-a-separate-contract-layer.md)
+- [0004: Server Is Optional and Separate](0004-server-is-optional-and-separate.md)
+- [0005: Versioning and Pre-1.0 Policy](0005-versioning-and-pre-1-0-policy.md)
+- [0006: KISS Is a Primary Design Rule](0006-kiss-is-a-primary-design-rule.md)
+- [0007: Documentation and ADRs Govern Structural Change](0007-documentation-and-adrs-govern-structural-change.md)
+- [0008: Monorepo With Separate Boundaries](0008-monorepo-with-separate-boundaries.md)
